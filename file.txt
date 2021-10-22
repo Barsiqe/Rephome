@@ -1,2 +1,3 @@
 12345
-comm 2
+comm 2 master
+comm 3 master
